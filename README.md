@@ -1,4 +1,4 @@
- Used Cars Project on EDA in Python
+ **Used Cars Project on EDA in Python**
 
 The data set consist of infprmation regarding sales of used car.!! 
 We will used this data set for completeing the project on EDA.
@@ -13,4 +13,4 @@ We will used this data set for completeing the project on EDA.
 |Purchase  | Car Purchase Year |
 
 You can check the notebook by clicking [here](https://github.com/Niteshk2021/Used-Car-EDA_Nitesh) 
-:star: :car: :star::star: :car: :star::star: :car: :star::star: :car: :star::star: :car: :star:
+:star: :car: :star:
